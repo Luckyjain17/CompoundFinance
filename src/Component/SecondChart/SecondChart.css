@@ -1,0 +1,21 @@
+.tableFirst .MuiPaper-root {
+    width: 62% !important;
+    margin-top: 25px;
+}
+
+.tableRow1{
+    border-bottom: none !important;
+    color: #7a8a99 !important;
+    font-weight: bold !important;
+}
+
+.tableRow2{
+    border-bottom: none !important;
+    color: #fff !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+}
+
+.tableContainer{
+ background-color: #252c34 !important; 
+} 

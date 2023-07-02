@@ -1,0 +1,27 @@
+.compoundPage{
+    color: #fff;
+}
+
+.compoundPage .bottomTextWrapper{
+    display: flex;
+    font-size: 40px;
+    margin: 40px 0px;
+}
+
+.bottomTextWrapper .dollarIcon{
+    margin-right: 5px !important;
+    color: #8F66FF !important;
+    z-index: -1 !important;
+    font-size: 50px;
+}
+.bottomTextWrapper .arrowIcon{
+    z-index: 2 !important;
+    font-size: 50px;
+    position: absolute;
+    left: 30px;
+}
+
+.iconWrapper{
+    position: relative;
+    margin-right: 40px;
+}

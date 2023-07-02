@@ -1,0 +1,9 @@
+.table {
+    width: 100% !important;
+    margin-top: 25px;
+}
+
+.tanleRow2Hover:hover{
+    background-color: #21262c;
+    border-radius: 5px;
+}
